@@ -1,0 +1,7 @@
+pygame
+pygame_gui
+cryptography
+tk
+pyperclip
+PyQt5
+
